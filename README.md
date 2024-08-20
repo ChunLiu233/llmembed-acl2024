@@ -18,7 +18,7 @@ Thank you very much 😉
 
 ```bibtex
 @inproceedings{liu2024llmembed,
-    title = "{LLME}mbed: Rethinking Lightweight {LLM}{'}s Genuine Function in Text Classification",
+    title = "LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification",
     author = "ChunLiu, ChunLiu  and
       Zhang, Hongguang  and
       Zhao, Kainan  and
@@ -28,7 +28,6 @@ Thank you very much 😉
     year = "2024",
     address = "Bangkok, Thailand",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.acl-long.433",
     pages = "7994--8004",
-    }
+}
 ```
