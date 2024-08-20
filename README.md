@@ -17,7 +17,7 @@ This work has been accepted to [ACL-2024](url: https://aclanthology.org/2024.acl
 Thank you very much 😉
 
 ```bibtex
-@inproceedings{chunliu-etal-2024-llmembed,
+@inproceedings{liu2024llmembed,
     title = "{LLME}mbed: Rethinking Lightweight {LLM}{'}s Genuine Function in Text Classification",
     author = "ChunLiu, ChunLiu  and
       Zhang, Hongguang  and
