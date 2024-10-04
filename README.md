@@ -17,17 +17,11 @@ This work has been accepted to [ACL-2024](url: https://aclanthology.org/2024.acl
 Thank you very much 😉
 
 ```bibtex
-@inproceedings{liu2024llmembed,
-    title = "LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification",
-    author = "ChunLiu, ChunLiu  and
-      Zhang, Hongguang  and
-      Zhao, Kainan  and
-      Ju, Xinghai  and
-      Yang, Lin",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    pages = "7994--8004",
+@inproceedings{chunliu2024llmembed,
+  title={LLMEmbed: Rethinking Lightweight LLM’s Genuine Function in Text Classification},
+  author={Liu, Chun and Zhang, Hongguang and Zhao, Kainan and Ju, Xinghai and Yang, Lin},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={7994--8004},
+  year={2024}
 }
 ```
